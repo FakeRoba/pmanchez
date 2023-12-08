@@ -6,7 +6,7 @@ You are responsible if you use this pmanchez.
 
 ![Screenshot](image.png)
 
-FiveM
+tags: FiveM
 Addon
 Vehicle
 Bike
